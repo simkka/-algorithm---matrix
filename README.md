@@ -1,5 +1,8 @@
 <h1>Algorithms and data structures Project</h1>
 <h2>Development of an algorithm - matrix</h2>
+Code foe algorithm #2 find here </b>
+
+ - [Matrix operation](https://github.com/simkka/Matrix-operation/blob/main/README.md)
 <h2>Description</h2>
 
 
