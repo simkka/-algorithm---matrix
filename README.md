@@ -27,3 +27,4 @@ matrix B of order N, each of its elements is equal to the sum of the elements of
 
 <h2>Algorithm action diagram:</h2>
 <img width="348" alt="Снимок экрана 2023-02-20 в 22 03 42" src="https://user-images.githubusercontent.com/87941256/220204932-fcfeac30-35df-4315-8ecb-10aa3c78bff3.png">
+ 
