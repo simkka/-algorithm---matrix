@@ -4,7 +4,8 @@
 
 
 There is a real square matrix A of order M. Find a real square matrix B of order N.
-matrix B of order N, each of its elements is equal to the sum of the elements of matrix A in the corresponding shaded region defined by the indices i, j:
+matrix B of order N, each of its elements is equal to the sum of the elements of matrix A in the corresponding shaded region defined by the indices i, j:<br />
+
 <img width="281" alt="Снимок экрана 2023-02-20 в 22 04 10" src="https://user-images.githubusercontent.com/87941256/220204972-203fab73-9dcf-4abc-bed9-e2dc9bc3e8c4.png">
 
 <br />
